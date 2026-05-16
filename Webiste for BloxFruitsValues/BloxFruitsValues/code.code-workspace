@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Gamersroom",
+			"path": "../../../../../../OneDrive/Desktop/Website/Gamersroom"
+		},
+		{
+			"name": "BLOXfruitvlauedifferenceCalculator",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BLOXfruitvlauedifferenceCalculator"
+	}
+}
